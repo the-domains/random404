@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.9229391
+color:
+  saturation: 0.06030044
+  lightness: 0.6279355
+  brandStrength: 1
+  brandColors:
+    - '#050507'
+    - '#BEBDB6'
+    - '#EBB46D'
+    - '#CF7742'
+    - '#303831'
+  rhythmicContrast: 0.839562
+name: random404
